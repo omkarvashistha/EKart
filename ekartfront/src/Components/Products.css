@@ -1,0 +1,12 @@
+@import url('https://fonts.cdnfonts.com/css/amazon-ember');
+
+
+body {
+    background : linear-gradient(to right, rgb(226, 233, 226), rgb(139, 168, 182));
+}   
+
+.test{
+    font-family: 'Amazon Ember',Arial,sans-serif;
+    font-size : 32px;
+}
+
